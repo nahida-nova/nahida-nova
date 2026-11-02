@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**nahida-nova/nahida-nova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm a Developer 👋
 
-Here are some ideas to get you started:
+### Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning, building, and improving one project at a time.
+
+## 👨‍💻 About Me
+
+I'm passionate about programming and building useful applications.
+I enjoy learning new technologies and improving my skills through
+practical projects.
+
+- 🌱 Currently learning backend development
+- 💻 Interested in building real-world applications
+- 🚀 Working on a School Management System
+- 🎯 Focused on continuous learning and improvement
+
+## 🛠️ Technologies I'm Learning
+
+- JavaScript
+- Node.js
+- Express.js
+- Git & GitHub
+
+## 🚀 Current Project
+
+**School Management System**
+
+A practical project focused on developing a system
+for managing school operations.
+
+## 🎯 My Goal
+
+To become a skilled software engineer through
+continuous learning, practice, and real-world experience.
+
+---
+
+*Always learning. Always building. Always improving.*
